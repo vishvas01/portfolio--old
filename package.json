@@ -1,6 +1,6 @@
 {
-  "name": "personal-portfolio",
-  "homepage": "https://vishvas.me",
+  "name": "portfolio",
+  "homepage": "https://vishvas.me/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
